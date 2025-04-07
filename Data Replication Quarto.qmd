@@ -8,9 +8,11 @@ editor: visual
 
 Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
 
-## Running Code
+## Intro and Background
+This paper, Predictable Evolution Towards Larger Brains in Birds Colonizing Oceanic Islands, sought to observe whether birds who live on islands have larger brains sizes compared to their continental counterparts, and to explore potential explanatory variables that influence that trend. Written by Ferran Sayol and co., the paper was published in 2018 in Nature Communications. The basis of this paper is that island birds face greater evolutionary pressure than mainland species. This pressure encourages evolutionary changes which confer benefit to adaptability, and is why it is hypothesized islandic birds have larger brain sizes to allow for short-term changes in behaivor. The paper uses data of brain samples from museum collections of bird skulls, of which a total of 11,554 specimens were obtained representing 1,931 different species. The differences were explored using Bayesian Phylogenetic Mixed Models (BPMM) which is a model that stratifies evolutionary patterns by phylogeny. When considering migratory pattern, body size, and developmental mode as factors, the study found significant differences in islandic birds to their mainland counterparts, with island birds having significantly larger brains. 
 
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
+A key limiter in data replication is the nuance and background needed to successfully create, run, and interpret BPMM. This complex model requires a deep understanding of its inputs, as well as the phylogenetics which go in to it. As a liver disease researcher, neither of these are within my perview, however linear mixed models are experiments I can replicate.
+
 
 ```{r}
 library(tidyverse)
