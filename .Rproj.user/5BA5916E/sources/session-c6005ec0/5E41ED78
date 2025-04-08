@@ -1,0 +1,31 @@
+{
+    "id": "5E41ED78",
+    "path": "~/Repos/Data-Replication-Assignment/Data Replication Quarto.qmd",
+    "project_path": "Data Replication Quarto.qmd",
+    "type": "quarto_markdown",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1743971233734.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "rmdVisualMode": "false",
+        "rmdVisualWrapConfigured": "true",
+        "source_window_id": "",
+        "Source": "Source",
+        "docOutlineVisible": "1",
+        "rmdVisualCollapsedChunks": "",
+        "rmdVisualModeLocation": "6340:1333",
+        "cursorPosition": "8,536",
+        "scrollLine": "4"
+    },
+    "folds": "15|6|28|0|\n174|1830|175|0|\n",
+    "lastKnownWriteTime": 1744088304,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1744088304956,
+    "read_only": false,
+    "read_only_alternatives": []
+}
